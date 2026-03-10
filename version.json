@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "archivos": {
     "OfficeAct.cmd": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/OfficeAct.cmd",
     "WindowsAct.cmd": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/WindowsAct.cmd",
@@ -8,6 +8,7 @@
     "Chrome.exe": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/Chrome.exe"
   }
 }
+
 
 
 
