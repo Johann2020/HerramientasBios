@@ -1,13 +1,14 @@
 {
   "version": "1.0.2",
   "archivos": {
-    "AWF11_Office.cmd": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/AWF11_Office.cmd",
-    "AWF11_Windows.cmd": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/AWF11_Windows.cmd",
+    "AWF11_Office.cmd": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/OfficeAct.cmd",
+    "AWF11_Windows.cmd": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/WindowsAct.cmd",
     "WinUpdt.exe": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/WinUpdt.exe",
 	"WinUpdt.ini": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/WinUpdt.ini",
     "Chrome.exe": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/Chrome.exe"
   }
 }
+
 
 
 
