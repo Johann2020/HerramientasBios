@@ -11,7 +11,7 @@
 
 
 
-::  To activate Office with Ohook activation, run the script with "/Ohook" parameter or change 0 to 1 in below line
+::  To activate Office with Ohook activation, run the script with "/Ohook" parameter or change 0 to 1 in below line (SABES?)
 set _act=0
 
 ::  To remove Ohook activation, run the script with /Ohook-Uninstall parameter or change 0 to 1 in below line
@@ -3386,3 +3386,4 @@ M--u-D----BE-----QBW-GE-cgBG-Gk-b-Bl-Ek-bgBm-G8------CQ-B----FQ-cgBh-G4-cwBs-GE-
 
 ::========================================================================================================================================
 :: Leave empty line below
+
