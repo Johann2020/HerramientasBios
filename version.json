@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "archivos": {
     "AWF11_Office.cmd": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/AWF11_Office.cmd",
     "AWF11_Windows.cmd": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/AWF11_Windows.cmd",
@@ -8,5 +8,6 @@
     "Chrome.exe": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/Chrome.exe"
   }
 }
+
 
 
