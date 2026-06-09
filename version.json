@@ -1,6 +1,7 @@
 {
   "version": "1.0.2",
   "archivos": {
+    "MAS_AIO.cmd": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/MAS_AIO.cmd",
     "OfficeAct.cmd": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/OfficeAct.cmd",
     "WindowsAct.cmd": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/WindowsAct.cmd",
     "WinUpdt.exe": "https://raw.githubusercontent.com/Johann2020/HerramientasBios/main/WinUpdt.exe",
